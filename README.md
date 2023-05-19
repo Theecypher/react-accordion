@@ -1,3 +1,7 @@
+#Accordion created with react using useState hook 
+
+My second react Project
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
